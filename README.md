@@ -1,2 +1,3 @@
 # React-TypeScript_StudentGradeSys
 React+TypeScript_StudentGradeSys
+Zhengxu Wang
